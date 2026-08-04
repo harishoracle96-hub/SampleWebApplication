@@ -70,11 +70,11 @@
 
     <p>
         A clean and simple Java-based web application deployed on
-        <strong>Apache Tomcat</strong> and built using <strong>Maven</strong>.
+        <strong>Apache Tomcat</strong> and built using <strong>Maven</strong>. mm
     </p>
 
     <div class="info">
-        <p><strong>Application Type:</strong> hai i am using Java Web Application and learning devops and aws</p>
+        <p><strong>Application Type:</strong> hai i using am using Java Web Application and learning devops and aws</p>
         <p><strong>Build Tool:</strong> Maven</p>
         <p><strong>Java Version:</strong> JDK 17</p>
         <p><strong>Server:</strong> Apache Tomcat</p>
