@@ -74,7 +74,7 @@
     </p>
 
     <div class="info">
-        <p><strong>Application Type:</strong> hai i using am using narasimha legend completed Java Wwappsb Application and learning devops and aws</p>
+        <p><strong>Application Type:</strong> hai i using am using narasimha legend king completed Java Wwappsb Application and learning devops and aws</p>
         <p><strong>Build Tool:</strong> Maven</p>
         <p><strong>Java Version:</strong> JDK 17</p>
         <p><strong>Server:</strong> Apache Tomcat</p>
