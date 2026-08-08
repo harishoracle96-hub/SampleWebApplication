@@ -74,7 +74,7 @@
     </p>
 
     <div class="info">
-        <p><strong>Application Type:</strong> krishika Reddy</p>
+        <p><strong>Application Type:</strong> B.krishika Reddy</p>
         <p><strong>Build Tool:</strong> Maven</p>
         <p><strong>Java Version:</strong> JDK 17</p>
         <p><strong>Server:</strong> Apache Tomcat</p>
